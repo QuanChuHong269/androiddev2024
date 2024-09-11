@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">USTH Weather</string>
+    <string name="monday">Mon</string>
+    <string name="tuesday">Tue</string>
+    <string name="wednesday">Wed</string>
+    <string name="thursday">Thu</string>
+    <string name="friday">Fri</string>
+    <string name="saturday">Sat</string>
+    <string name="sunday">Sun</string>
+    <string name="sunny">Sunny</string>
+    <string name="rainy">Rainy</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="thunderstorm">Thunderstorm</string>
+    <string name="windy">Windy</string>
+    <string name="temp_mon">27 - 32°C</string>
+    <string name="temp_tue">24 - 28°C</string>
+    <string name="temp_wed">21 - 27°C</string>
+    <string name="temp_thu">23 - 29°C</string>
+    <string name="temp_fri">26 - 32°C</string>
+    <string name="temp_sat">22 - 29°C</string>
+    <string name="temp_sun">25 - 30°C</string>
+</resources>
