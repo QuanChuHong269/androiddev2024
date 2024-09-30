@@ -19,4 +19,6 @@
     <string name="temp_fri">26 - 32°C</string>
     <string name="temp_sat">22 - 29°C</string>
     <string name="temp_sun">25 - 30°C</string>
+    <string name="temp_now">26°C</string>
+    <string name="city_now">Hanoi</string>
 </resources>
